@@ -1,5 +1,5 @@
 public class Spring {
     public static void main(String[] args) {
-        System.out.println("THIS IS SPRING");
+        System.out.println("SUMMER");
     }
 }
