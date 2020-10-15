@@ -1,6 +1,6 @@
 public class Spring {
     public static void main(String[] args) {
         System.out.println("SUMMER");
-        System.out.println("SPRING IS COMING");
+        System.out.println("WINTER");
     }
 }
